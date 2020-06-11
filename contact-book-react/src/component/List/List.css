@@ -1,0 +1,85 @@
+.contact-book{
+    /* background-color: cornflowerblue; */
+    display: block;
+    margin: auto;
+    border: 1px solid black;
+    width: 100%;
+    background-image: url(https://png.pngtree.com/thumb_back/fw800/back_our/20190619/ourmid/pngtree-fresh-green-field-scene-h5-background-element-image_134360.jpg);
+    background-size: cover;
+    height: 100vh;   
+    
+}
+.card{
+    width: 200px;
+    list-style-type: none;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+    font-size: larger;
+    margin-left: 100px;
+}
+.contact-book > div > h3{
+    text-align: center;
+    width: 300px;
+    /* border: 1px solid black; */
+    margin-left: 50px;
+}
+.modal {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 200vh;
+    background-color: rgba (0,0,0, .11);
+  }
+  .modal-window{
+    width: 400px;
+    height: 150px;
+    padding: 1rem;
+    background-color: #7eece4;
+    border-radius: 4px;
+    margin: 200px auto 0 auto;
+    text-align: center;
+    border: 1px solid black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+  }
+  .modal-window > div {
+    margin-bottom: 1rem;
+  }
+  .modal-window > button{
+    background-color: #a6efe8;
+    margin: 10px;
+    width: 60px;
+    height: 25px;
+    border-radius: 5px;
+  }
+  .modal-window> input{
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 1rem;
+  }
+  .add-contact-form {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      height: 100vh;
+      margin-top: 50px;
+  }
+  .add-contact-form >button{
+      width: 100px;
+     
+  }
+  .add-contact-form >input{
+      margin: 5px;
+      width: 30%;
+  }
+  .contact-list{
+    width: 400px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-left: 35%;
+    border: 2px solid black;
+    border-radius: 10px;
+    /* background-color: rgb(195, 177, 177); */
+  }

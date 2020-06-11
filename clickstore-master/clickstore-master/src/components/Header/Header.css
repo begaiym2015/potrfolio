@@ -1,0 +1,51 @@
+.header {
+    position: sticky;
+    top: 0;
+    left: 0;
+    right: 0;
+    font-size: 15px;
+    z-index: 999;
+    color: #0a1331;
+    background: #fff;
+    box-shadow: 0 2px 4px 4px rgba(10,19,49,0.07);
+}
+.header__wrapper {
+    max-width: 960px;
+    margin: 0 auto;
+    height: 57px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header__menu {
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+}
+.header__menu-item {
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    padding: 7px;
+    border-radius: 4px;
+    transition: .5s;
+}
+.header__menu-item a {
+    text-decoration: none;
+    color: #333;
+    font-weight: 500;
+}
+.header__menu-item:hover {
+    background-color: silver;
+}
+.header__menu-item:hover:last-child {
+    background-color: rgba(0, 0, 0, 0);
+}
+.basket-icon {
+    padding: 2px 12px;
+    background: url(../../img/supermarket.svg) no-repeat;
+    background-size: contain;
+}
+
+

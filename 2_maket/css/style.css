@@ -1,0 +1,244 @@
+@import url('https://fonts.googleapis.com/css?family=Work+Sans&display=swap');
+
+body{
+    margin: 0;
+    width: 100%;
+    font-family:'Work Sans';
+    color:#233148;
+ 
+}
+.header{
+    background: url(../css/images/Background.png);
+    /* transform: translateY(ty 15); */
+}
+.container{
+    max-width: 90%;
+    margin: 0 auto;
+    height: inherit;
+    
+}
+.header_nav{ 
+    display: flex;
+    justify-content: space-between;
+}
+.header_nav_left{
+    display: flex;
+    align-items: center;
+    
+}
+.header_logo{
+    width: 40px;
+    height: 40px;
+    background: url(../css/images/Logo.png)no-repeat;
+}
+.header_text{
+    width: 48px;
+    padding: 0 0 0 15px;
+ font-family: 'Work Sans'; 
+    color: white;
+    font-size: 13px;
+    text-transform: uppercase;
+}
+.menu{
+    display: flex;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+
+
+}
+.menu__items{
+    padding: 35px;
+    color: #fff;
+}
+.header_body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.header_body_h1{
+    font-weight: bolder;
+    width: 330px;
+    text-align: center;
+    font-size: 28px;
+    color: #fff;
+
+}
+.header_body_span{
+    font-size: 10px;
+    color: #fff;
+    text-align: center;
+}
+.header_button{
+    padding: 35px 0 35px 0;
+}
+.first_button{
+    height: 30px;
+    width: 120px;
+    font-size: 11px;
+    color: #00c2f3;
+    border-width: 0px;
+    border-radius: 5px;
+}
+.second_button{
+    height: 30px;
+    width: 100px;
+    font-size: 11px;
+    color: white;
+    border-width: 1px;
+    border-radius: 5px;
+    background: none;
+
+}
+.smartphone{
+    width: 17%;
+}
+.second_section{
+    background-image: url(./images/Background2.png);
+    position: relative;
+    top: -170px;
+
+}
+.container2{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 25%;
+    width: 90%;
+    margin: 0 auto;
+  
+
+}
+.second_section_blocks{
+    display: flex;
+}
+.second_section_smartphone2 img{
+    width: 70%;
+}
+.first_block{
+    background-image: url(./images/Path.png);
+    width: 150px;
+    height: 200px;
+    text-align: center;
+    padding: 10px;
+}
+.first_block p{
+    font-size: 10px;
+}
+.first_block2{
+    background-image: url(./images/Path.png);
+    width: 150px;
+    height: 200px;
+    text-align: center;
+    padding: 10px;
+}
+.first_block2 p{
+    font-size: 10px;
+}
+.first_block3{
+    background-image: url(./images/Path.png);
+    width: 150px;
+    height: 200px;
+    text-align: center;
+    padding: 10px;
+}
+.first_block3 p{
+    font-size: 10px;
+}
+.first_block4{
+    background-image: url(./images/Path.png);
+    width: 150px;
+    height: 200px;
+    text-align: center;
+    padding: 10px;
+}
+.first_block4 p{
+    font-size: 10px;
+}
+.third_section{
+    background-image: url(./images/Background3.png);
+}
+.container3{
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+}
+.third_section_block1{
+    width: 30%;
+    margin-top: 156px;
+    text-align: right;
+    color: #233148;
+}
+.third_section_block1 button{
+    border: none;
+    padding:5px 10px ;
+    background-color: #31CEF8;
+    border-radius: 5px;
+}
+.third_section_block1 p{
+    font-size: 11px;
+}
+.third_section_block2{
+    display: flex;
+    flex-direction: column;
+    width: 35%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    cursor: pointer;
+}
+.third_sec_block2{
+    display: flex;
+    background-image: url(./images/Path3.png);
+}
+.third_sec_block2:hover{
+    background-color:#31CEF8;
+}
+.third_sec_block2 img{
+    padding: 5%;
+}
+.third_sec_block2 h3{
+    font-size: 15px;
+    padding-top: 3%;
+}
+
+
+.fourth_section{
+    background-image: url(./images/Background4.png);
+}
+.container4{
+   width: 90%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+}
+.fourth_section_block_1{
+    width: 30%;
+}
+.fourth_section_block_1 img{
+    width: 116%;
+    margin-top: 14%;
+}
+.fourth_section_block_2{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    margin-top: 2%;
+}
+.ikon{
+    display: flex;
+    size: 0.1vh;
+}
+.ikon img{
+    height: 10px;
+    margin-top: 21px;
+    border-radius: 11px;
+    background-color: #31CEF8;
+}
+.fourth_section_block_2 h3{
+    font-size: 20px;
+}
+.fourth_section_block_2 p{
+    font-size: 12px;
+}

@@ -1,0 +1,46 @@
+{
+  "contact": [
+    {
+      "name": "Aisun",
+      "surname": "Almazbekova",
+      "phone": "22222",
+      "id": 1
+    },
+    {
+      "name": "Begaiym",
+      "surname": "Omurbekova",
+      "phone": "123456",
+      "id": 2
+    },
+    {
+      "name": "Nurlan",
+      "surname": "Abdyraev",
+      "phone": "1",
+      "id": 3
+    },
+    {
+      "name": "Begaiym",
+      "surname": "Omurbekova",
+      "phone": "0",
+      "id": 5
+    },
+    {
+      "name": "Nurlan",
+      "surname": "Abdyraev",
+      "phone": "12345",
+      "id": 6
+    },
+    {
+      "name": "Aisun",
+      "surname": "Almazbekova",
+      "phone": "0",
+      "id": 7
+    },
+    {
+      "name": "Begaiyma",
+      "surname": "Omurbekova",
+      "phone": "123456",
+      "id": 8
+    }
+  ]
+}

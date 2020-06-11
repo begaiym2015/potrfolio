@@ -1,0 +1,13 @@
+.card {
+    /* border: 1px solid black; */
+    margin: 10px;
+    padding: 10px;
+    /* border-radius: 4px; */
+    /* font-family: Arial, Helvetica, sans-serif; */
+}
+.price {
+    font-weight: 700;
+}
+.model {
+    font-family: Arial, Helvetica, sans-serif;
+}

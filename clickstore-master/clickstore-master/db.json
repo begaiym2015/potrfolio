@@ -1,0 +1,587 @@
+{
+  "packages": [
+    {
+      "id": 0,
+      "model": "IPhone 7Plus",
+      "color": "Black",
+      "memory": "64GB",
+      "price": "23000",
+      "img": "https://img5.lalafo.com/i/posters/original/30/3d/00/53344bf2d01d662c8be188f922.jpeg",
+      "type": "mobile",
+      "description": "Смартфон Apple IPhone обладает хорошей камерой на 12+12+12 Мп. Объем встроенной памяти составляет 64GB. Оперативной памяти на 4 Gb хватает для стабильной работы системы. Под крышкой скрывается аккумулятор ёмкостью 3500 мАч. Смартфон имеет возможность беспроводной зарядки. Функция быстрой зарядки пригодится пользователям, которые ценят свое время. Поддержка диапазона 4G даст вам возможность пользоваться быстрым интернетом."
+    },
+    {
+      "id": 1,
+      "model": "IPhone 8+",
+      "color": "White",
+      "memory": "128GB",
+      "price": "28000",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ02ADKvITbaU3TCSKxg-4qpXShWCeU4nmWzMaa3w7GPTLYR9tT&usqp=CAU",
+      "type": "mobile",
+      "description": "Смартфон Apple IPhone обладает хорошей камерой на 12+12+12 Мп. Объем встроенной памяти составляет 128GB. Оперативной памяти на 4 Gb хватает для стабильной работы системы. Под крышкой скрывается аккумулятор ёмкостью 3500 мАч. Смартфон имеет возможность беспроводной зарядки. Функция быстрой зарядки пригодится пользователям, которые ценят свое время. Поддержка диапазона 4G даст вам возможность пользоваться быстрым интернетом."
+    },
+    {
+      "id": 2,
+      "model": "IPhone Xs Max",
+      "color": "Space Gray",
+      "memory": "128GB",
+      "price": "27500",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS1EJ2WH4Is4cDzbHKXtEmyWbq_v-nvmRZ9ZoDiepbmoBY0ihZO&usqp=CAU",
+      "type": "mobile",
+      "description": "Смартфон Apple IPhone обладает хорошей камерой на 12+12+12 Мп. Объем встроенной памяти составляет 128GB. Оперативной памяти на 4 Gb хватает для стабильной работы системы. Под крышкой скрывается аккумулятор ёмкостью 3500 мАч. Смартфон имеет возможность беспроводной зарядки. Функция быстрой зарядки пригодится пользователям, которые ценят свое время. Поддержка диапазона 4G даст вам возможность пользоваться быстрым интернетом."
+    },
+    {
+      "id": 3,
+      "model": "IPhone 7",
+      "color": "Rose Gold",
+      "memory": "64GB",
+      "price": "26000",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSiFc3YdsVhRQ9LxGsiXgpctZrDvuHL4Xl1nD4Va7z-G8Vka1bw&usqp=CAU",
+      "type": "mobile",
+      "description": "Смартфон Apple IPhone обладает хорошей камерой на 12+12+12 Мп. Объем встроенной памяти составляет 64GB. Оперативной памяти на 4 Gb хватает для стабильной работы системы. Под крышкой скрывается аккумулятор ёмкостью 3500 мАч. Смартфон имеет возможность беспроводной зарядки. Функция быстрой зарядки пригодится пользователям, которые ценят свое время. Поддержка диапазона 4G даст вам возможность пользоваться быстрым интернетом."
+    },
+    {
+      "id": 4,
+      "model": "IPhone 11pro",
+      "color": "White",
+      "memory": "256GB",
+      "price": "70000",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ4M48OTXCn4_u51axwtohK6E0aeum0wFkWra6bkjRldlEwRxwI&usqp=CAU",
+      "type": "mobile",
+      "description": "Смартфон Apple IPhone обладает хорошей камерой на 12+12+12 Мп. Объем встроенной памяти составляет 256GB. Оперативной памяти на 4 Gb хватает для стабильной работы системы. Под крышкой скрывается аккумулятор ёмкостью 3500 мАч. Смартфон имеет возможность беспроводной зарядки. Функция быстрой зарядки пригодится пользователям, которые ценят свое время. Поддержка диапазона 4G даст вам возможность пользоваться быстрым интернетом."
+    },
+    {
+      "id": 5,
+      "model": "IPhone 11pro",
+      "color": "Black",
+      "memory": "256GB",
+      "price": "71000",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ4M48OTXCn4_u51axwtohK6E0aeum0wFkWra6bkjRldlEwRxwI&usqp=CAU",
+      "type": "mobile",
+      "description": "Смартфон Apple IPhone обладает хорошей камерой на 12+12+12 Мп. Объем встроенной памяти составляет 256GB. Оперативной памяти на 4 Gb хватает для стабильной работы системы. Под крышкой скрывается аккумулятор ёмкостью 3500 мАч. Смартфон имеет возможность беспроводной зарядки. Функция быстрой зарядки пригодится пользователям, которые ценят свое время. Поддержка диапазона 4G даст вам возможность пользоваться быстрым интернетом."
+    },
+    {
+      "id": 6,
+      "model": "IPhone 7Plus",
+      "color": "Black",
+      "memory": "64GB",
+      "price": "23000",
+      "img": "https://img5.lalafo.com/i/posters/original/30/3d/00/53344bf2d01d662c8be188f922.jpeg",
+      "type": "mobile",
+      "description": "Смартфон Apple IPhone обладает хорошей камерой на 12+12+12 Мп. Объем встроенной памяти составляет 64GB. Оперативной памяти на 4 Gb хватает для стабильной работы системы. Под крышкой скрывается аккумулятор ёмкостью 3500 мАч. Смартфон имеет возможность беспроводной зарядки. Функция быстрой зарядки пригодится пользователям, которые ценят свое время. Поддержка диапазона 4G даст вам возможность пользоваться быстрым интернетом."
+    },
+    {
+      "id": 7,
+      "model": "IPhone 8+",
+      "color": "White",
+      "memory": "128GB",
+      "price": "28000",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ02ADKvITbaU3TCSKxg-4qpXShWCeU4nmWzMaa3w7GPTLYR9tT&usqp=CAU",
+      "type": "mobile",
+      "description": "Смартфон Apple IPhone обладает хорошей камерой на 12+12+12 Мп. Объем встроенной памяти составляет 128GB. Оперативной памяти на 4 Gb хватает для стабильной работы системы. Под крышкой скрывается аккумулятор ёмкостью 3500 мАч. Смартфон имеет возможность беспроводной зарядки. Функция быстрой зарядки пригодится пользователям, которые ценят свое время. Поддержка диапазона 4G даст вам возможность пользоваться быстрым интернетом."
+    },
+    {
+      "id": 8,
+      "model": "IPhone Xs Max",
+      "color": "Space Gray",
+      "memory": "128GB",
+      "price": "27500",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS1EJ2WH4Is4cDzbHKXtEmyWbq_v-nvmRZ9ZoDiepbmoBY0ihZO&usqp=CAU",
+      "type": "mobile",
+      "description": "Смартфон Apple IPhone обладает хорошей камерой на 12+12+12 Мп. Объем встроенной памяти составляет 128GB. Оперативной памяти на 4 Gb хватает для стабильной работы системы. Под крышкой скрывается аккумулятор ёмкостью 3500 мАч. Смартфон имеет возможность беспроводной зарядки. Функция быстрой зарядки пригодится пользователям, которые ценят свое время. Поддержка диапазона 4G даст вам возможность пользоваться быстрым интернетом."
+    },
+    {
+      "id": 9,
+      "model": "IPhone 7",
+      "color": "Rose Gold",
+      "memory": "64GB",
+      "price": "26000",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSiFc3YdsVhRQ9LxGsiXgpctZrDvuHL4Xl1nD4Va7z-G8Vka1bw&usqp=CAU",
+      "type": "mobile",
+      "description": "Смартфон Apple IPhone обладает хорошей камерой на 12+12+12 Мп. Объем встроенной памяти составляет 64GB. Оперативной памяти на 4 Gb хватает для стабильной работы системы. Под крышкой скрывается аккумулятор ёмкостью 3500 мАч. Смартфон имеет возможность беспроводной зарядки. Функция быстрой зарядки пригодится пользователям, которые ценят свое время. Поддержка диапазона 4G даст вам возможность пользоваться быстрым интернетом."
+    },
+    {
+      "id": 10,
+      "model": "IPhone 11pro",
+      "color": "White",
+      "memory": "256GB",
+      "price": "70000",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ4M48OTXCn4_u51axwtohK6E0aeum0wFkWra6bkjRldlEwRxwI&usqp=CAU",
+      "type": "mobile",
+      "description": "Смартфон Apple IPhone обладает хорошей камерой на 12+12+12 Мп. Объем встроенной памяти составляет 256GB. Оперативной памяти на 4 Gb хватает для стабильной работы системы. Под крышкой скрывается аккумулятор ёмкостью 3500 мАч. Смартфон имеет возможность беспроводной зарядки. Функция быстрой зарядки пригодится пользователям, которые ценят свое время. Поддержка диапазона 4G даст вам возможность пользоваться быстрым интернетом."
+    },
+    {
+      "id": 11,
+      "model": "IPhone 11pro",
+      "color": "Black",
+      "memory": "256GB",
+      "price": "71000",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ4M48OTXCn4_u51axwtohK6E0aeum0wFkWra6bkjRldlEwRxwI&usqp=CAU",
+      "type": "mobile",
+      "description": "Смартфон Apple IPhone обладает хорошей камерой на 12+12+12 Мп. Объем встроенной памяти составляет 256GB. Оперативной памяти на 4 Gb хватает для стабильной работы системы. Под крышкой скрывается аккумулятор ёмкостью 3500 мАч. Смартфон имеет возможность беспроводной зарядки. Функция быстрой зарядки пригодится пользователям, которые ценят свое время. Поддержка диапазона 4G даст вам возможность пользоваться быстрым интернетом."
+    },
+    {
+      "id": 12,
+      "model": "Lenovo Ideapad",
+      "color": "Black",
+      "memory": "1000GB",
+      "price": "65000",
+      "img": "https://svetofor.info/images/thumbnails/300/300/detailed/193/noutbuk-lenovo-ideapad-l340-156-intel-core-n4205-4-gb-ddr4-1000-gb-hdd-intel-uhd-graphics-610-chernyj-1-2.jpg",
+      "type": "laptop",
+      "description": "Процессор Intel Core сделает любую вашу работу невероятно быстрой. Объем оперативной памяти составляет 4 Gb. Ноутбук Lenovo Ideapad L340 c разрешением в 1920x1080 отлично подойдет для работы или просмотра любимых фильмов и сериалов. А с видеокартой Intel UHD Graphics 610 изображение будет всегда четким и красивым. С объемом жесткого диска в 1000 Gb вам всегда хватит места, чтобы сохранить важные документы."
+    },
+    {
+      "id": 13,
+      "model": "ASUS X540MA 15.6",
+      "color": "Black",
+      "memory": "1000GB",
+      "price": "45000",
+      "img": "https://svetofor.info/images/thumbnails/300/300/detailed/193/noutbuk-asus-x540ma-156-intel-celeron-n4000-4-gb-ddr4-1000-gb-hdd-intel-uhd-graphics-600-chernyj-1-2.jpg",
+      "type": "laptop",
+      "description": "Процессор Intel Core сделает любую вашу работу невероятно быстрой. Объем оперативной памяти составляет 4 Gb. Процессор Intel Celeron сделает любую вашу работу невероятно быстрой. Объем оперативной памяти составляет 4 Gb. Ноутбук ASUS X540MA c разрешением в 1920x1080 отлично подойдет для работы или просмотра любимых фильмов и сериалов."
+    },
+    {
+      "id": 14,
+      "model": "Apple MacBook Pro",
+      "color": "Space Gray",
+      "memory": "1000GB",
+      "price": "205600",
+      "img": "https://svetofor.info/images/thumbnails/300/300/detailed/182/makbuk-apple-macbook-pro-2019-mv912-touch-bar-154-intel-core-i9-9880h-16-gb-ddr4-512-gb-ssd-radeon-pro-560x-seryj-kosmos-1.jpg",
+      "type": "laptop",
+      "description": "Самый мощный ноутбук с высокопроизводительными процессорами, панелью Touch Bar и превосходным дисплеем Retina."
+    },
+    {
+      "id": 15,
+      "model": "Lenovo Ideapad",
+      "color": "Black",
+      "memory": "1000GB",
+      "price": "65000",
+      "img": "https://svetofor.info/images/thumbnails/300/300/detailed/193/noutbuk-lenovo-ideapad-l340-156-intel-core-n4205-4-gb-ddr4-1000-gb-hdd-intel-uhd-graphics-610-chernyj-1-2.jpg",
+      "type": "laptop",
+      "description": "Процессор Intel Core сделает любую вашу работу невероятно быстрой. Объем оперативной памяти составляет 4 Gb. Ноутбук Lenovo Ideapad L340 c разрешением в 1920x1080 отлично подойдет для работы или просмотра любимых фильмов и сериалов. А с видеокартой Intel UHD Graphics 610 изображение будет всегда четким и красивым. С объемом жесткого диска в 1000 Gb вам всегда хватит места, чтобы сохранить важные документы."
+    },
+    {
+      "id": 16,
+      "model": "ASUS X540MA 15.6",
+      "color": "Black",
+      "memory": "1000GB",
+      "price": "45000",
+      "img": "https://svetofor.info/images/thumbnails/300/300/detailed/193/noutbuk-asus-x540ma-156-intel-celeron-n4000-4-gb-ddr4-1000-gb-hdd-intel-uhd-graphics-600-chernyj-1-2.jpg",
+      "type": "laptop",
+      "description": "Процессор Intel Core сделает любую вашу работу невероятно быстрой. Объем оперативной памяти составляет 4 Gb. Процессор Intel Celeron сделает любую вашу работу невероятно быстрой. Объем оперативной памяти составляет 4 Gb. Ноутбук ASUS X540MA c разрешением в 1920x1080 отлично подойдет для работы или просмотра любимых фильмов и сериалов."
+    },
+    {
+      "id": 17,
+      "model": "Apple MacBook Pro",
+      "color": "Space Gray",
+      "memory": "1000GB",
+      "price": "205600",
+      "img": "https://svetofor.info/images/thumbnails/300/300/detailed/182/makbuk-apple-macbook-pro-2019-mv912-touch-bar-154-intel-core-i9-9880h-16-gb-ddr4-512-gb-ssd-radeon-pro-560x-seryj-kosmos-1.jpg",
+      "type": "laptop",
+      "description": "Самый мощный ноутбук с высокопроизводительными процессорами, панелью Touch Bar и превосходным дисплеем Retina."
+    },
+    {
+      "id": 18,
+      "model": "Apple MacBook Pro 2019 MV932",
+      "color": "Space Gray",
+      "memory": "1000GB",
+      "price": "206600",
+      "img": "https://svetofor.info/images/thumbnails/300/300/detailed/182/makbuk-apple-macbook-pro-2019-mv932-touch-bar-154-intel-core-i9-9880h-16-gb-ddr4-512-gb-ssd-radeon-pro-560x-serebristyj-1.jpg",
+      "type": "laptop",
+      "description": "Самый мощный ноутбук с высокопроизводительными процессорами, панелью Touch Bar и превосходным дисплеем Retina."
+    },
+    {
+      "id": 19,
+      "model": "Apple MacBook Pro 2019 MV932",
+      "color": "Space Gray",
+      "memory": "1000GB",
+      "price": "206600",
+      "img": "https://svetofor.info/images/thumbnails/300/300/detailed/182/makbuk-apple-macbook-pro-2019-mv932-touch-bar-154-intel-core-i9-9880h-16-gb-ddr4-512-gb-ssd-radeon-pro-560x-serebristyj-1.jpg",
+      "type": "laptop",
+      "description": "Самый мощный ноутбук с высокопроизводительными процессорами, панелью Touch Bar и превосходным дисплеем Retina."
+    },
+    {
+      "id": 20,
+      "model": "Monitor LCD 19.5",
+      "color": "Black",
+      "memory": "100GB",
+      "price": "5289",
+      "img": "https://enter.kg/images/stories/virtuemart/product/7_5595.webp",
+      "type": "computer",
+      "description": "Monitor LCD 19.5, Qmax M204BD, Black, 1600x900, 250cdm, 10M:1, 5ms, 90/65, VGA, DVI"
+    },
+    {
+      "id": 21,
+      "model": "Monitor LCD 19.5",
+      "color": "Black",
+      "memory": "100GB",
+      "price": "7080",
+      "img": "https://enter.kg/images/stories/virtuemart/product/7_5595.webp",
+      "type": "computer",
+      "description": "Monitor LCD 19.5, Qmax M204BD, Black, 1600x900, 250cdm, 10M:1, 5ms, 90/65, VGA, DVI"
+    },
+    {
+      "id": 22,
+      "model": "Monitor LCD 19.5",
+      "color": "Black",
+      "memory": "100GB",
+      "price": "7080",
+      "img": "https://enter.kg/images/stories/virtuemart/product/7_5595.webp",
+      "type": "computer",
+      "description": "Monitor LCD 19.5, Qmax M204BD, Black, 1600x900, 250cdm, 10M:1, 5ms, 90/65, VGA, DVI"
+    },
+    {
+      "id": 23,
+      "model": "PHILIPS 18,5",
+      "color": "Black",
+      "memory": "100GB",
+      "price": "5494",
+      "img": "https://enter.kg/images/stories/virtuemart/product/7_6104.jpg",
+      "type": "computer",
+      "description": "PHILIPS 18,5 LED LCD TFT-TN 193V5LSB2, BLACK 1366 x 768 16:9 HD; 10000000:1 ; 5ms,VGA"
+    },
+    {
+      "id": 24,
+      "model": "PHILIPS 18,5",
+      "color": "Black",
+      "memory": "100GB",
+      "price": "5494",
+      "img": "https://enter.kg/images/stories/virtuemart/product/7_6104.jpg",
+      "type": "computer",
+      "description": "PHILIPS 18,5 LED LCD TFT-TN 193V5LSB2, BLACK 1366 x 768 16:9 HD; 10000000:1 ; 5ms,VGA"
+    },
+    {
+      "id": 25,
+      "model": "Monitor LCD 21.5",
+      "color": "Black",
+      "memory": "100GB",
+      "price": "6888",
+      "img": "https://enter.kg/images/stories/virtuemart/product/7_8884.jpg",
+      "type": "computer",
+      "description": "Monitor LCD 21.5 AOC E2270SWN/01 Black, 1920x1080 Full HD, 700:1 (20000000:1), 200cd/m2, 110/75, 5ms, D-Sub"
+    },
+    {
+      "id": 26,
+      "model": "Monitor LCD 21.5",
+      "color": "Black",
+      "memory": "100GB",
+      "price": "6888",
+      "img": "https://enter.kg/images/stories/virtuemart/product/7_8884.jpg",
+      "type": "computer",
+      "description": "Monitor LCD 21.5 AOC E2270SWN/01 Black, 1920x1080 Full HD, 700:1 (20000000:1), 200cd/m2, 110/75, 5ms, D-Sub"
+    },
+    {
+      "id": 27,
+      "model": "LED LCD 21.5",
+      "color": "Black",
+      "memory": "0GB",
+      "price": "8200",
+      "img": "https://enter.kg/images/stories/virtuemart/product/9_2940.jpg",
+      "type": "computer",
+      "description": "LED LCD 21.5, Samsung S22F350FHI, Black, Full HD 1920x1080, 20000000:1, 200cd/m2, 170/170, 5ms, VGA, HDMI"
+    },
+    {
+      "id": 28,
+      "model": "Чехол Apple MTFE2FE/A для Apple iPhone XS Max",
+      "color": "Red",
+      "memory": "0GB",
+      "price": "400",
+      "img": "https://svetofor.info/images/thumbnails/300/300/detailed/160/chehol-apple-mtfe2fea-dlja-apple-iphone-xs-max-silikonovyj-krasnyj-2.jpg",
+      "type": "accessories",
+      "description": "Чехол Apple MTFE2FE/A для Apple iPhone XS Max"
+    },
+    {
+      "id": 29,
+      "model": "Чехол Apple MTFE2FE/A для Apple iPhone XS Max",
+      "color": "Black",
+      "memory": "0GB",
+      "price": "400",
+      "img": "https://svetofor.info/images/thumbnails/300/300/detailed/160/chehol-apple-mtfe2fea-dlja-apple-iphone-xs-max-silikonovyj-chernyj-2.jpg",
+      "type": "accessories",
+      "description": "Чехол Apple MTFE2FE/A для Apple iPhone XS Max"
+    },
+    {
+      "id": 30,
+      "model": "Чехол Apple MTFE2FE/A для Apple iPhone XS Max",
+      "color": "Red",
+      "memory": "0GB",
+      "price": "400",
+      "img": "https://svetofor.info/images/thumbnails/300/300/detailed/160/chehol-apple-mtfe2fea-dlja-apple-iphone-xs-max-silikonovyj-krasnyj-2.jpg",
+      "type": "accessories",
+      "description": "Чехол Apple MTFE2FE/A для Apple iPhone XS Max"
+    },
+    {
+      "id": 31,
+      "model": "Чехол Apple MTFE2FE/A для Apple iPhone XS Max",
+      "color": "Black",
+      "memory": "0GB",
+      "price": "400",
+      "img": "https://svetofor.info/images/thumbnails/300/300/detailed/160/chehol-apple-mtfe2fea-dlja-apple-iphone-xs-max-silikonovyj-chernyj-2.jpg",
+      "type": "accessories",
+      "description": "Чехол Apple MTFE2FE/A для Apple iPhone XS Max"
+    },
+    {
+      "id": 32,
+      "model": "Чехол X-Level Knight Series для Apple iPhone XS Max пластиковый",
+      "color": "Bordo",
+      "memory": "0GB",
+      "price": "400",
+      "img": "https://svetofor.info/images/thumbnails/300/300/detailed/160/chehol-x-level-knight-series-dlja-apple-iphone-xs-max-plastikovyj-bordovyj-2.jpg",
+      "type": "accessories",
+      "description": "Чехол X-Level Knight Series для Apple iPhone XS Max пластиковый бордовый"
+    },
+    {
+      "id": 33,
+      "model": "Чехол Apple MTFE2FE/A для Apple iPhone XS Max",
+      "color": "Red",
+      "memory": "0GB",
+      "price": "400",
+      "img": "https://svetofor.info/images/thumbnails/300/300/detailed/160/chehol-apple-mtfe2fea-dlja-apple-iphone-xs-max-silikonovyj-krasnyj-2.jpg",
+      "type": "accessories",
+      "description": "Чехол Apple MTFE2FE/A для Apple iPhone XS Max"
+    },
+    {
+      "id": 34,
+      "model": "Чехол Apple MTFE2FE/A для Apple iPhone XS Max",
+      "color": "Black",
+      "memory": "0GB",
+      "price": "400",
+      "img": "https://svetofor.info/images/thumbnails/300/300/detailed/160/chehol-apple-mtfe2fea-dlja-apple-iphone-xs-max-silikonovyj-chernyj-2.jpg",
+      "type": "accessories",
+      "description": "Чехол Apple MTFE2FE/A для Apple iPhone XS Max"
+    },
+    {
+      "id": 35,
+      "model": "Чехол X-Level Knight Series для Apple iPhone XS Max пластиковый",
+      "color": "Bordo",
+      "memory": "0GB",
+      "price": "400",
+      "img": "https://svetofor.info/images/thumbnails/300/300/detailed/160/chehol-x-level-knight-series-dlja-apple-iphone-xs-max-plastikovyj-bordovyj-2.jpg",
+      "type": "accessories",
+      "description": "Чехол X-Level Knight Series для Apple iPhone XS Max пластиковый бордовый"
+    },
+    {
+      "id": 36,
+      "model": "Маска-респиратор FFP2 ",
+      "color": "White",
+      "memory": "0",
+      "price": "300",
+      "img": "https://images.ua.prom.st/2314974059_w200_h200_maska-respirator-ffp2-4-6.jpg",
+      "type": "medical",
+      "description": "Маска-респиратор FFP2 (4-6 часов/день на 7 дней) защитная для лица С ЖЕЛТЫМ КЛАПАНОМ выдоха от вирусов"
+    },
+    {
+      "id": 37,
+      "model": "Маска ",
+      "color": "Black",
+      "memory": "0",
+      "price": "250",
+      "img": "https://images.ua.prom.st/1977540699_w200_h200_maska-na-litso.jpg",
+      "type": "medical",
+      "description": "Маска на лицо Пушка Огонь Classic черная"
+    },
+    {
+      "id": 38,
+      "model": "Маска-респиратор FFP2 ",
+      "color": "White",
+      "memory": "0",
+      "price": "300",
+      "img": "https://images.ua.prom.st/2314974059_w200_h200_maska-respirator-ffp2-4-6.jpg",
+      "type": "medical",
+      "description": "Маска-респиратор FFP2 (4-6 часов/день на 7 дней) защитная для лица С ЖЕЛТЫМ КЛАПАНОМ выдоха от вирусов"
+    },
+    {
+      "id": 39,
+      "model": "Маска ",
+      "color": "Black",
+      "memory": "0",
+      "price": "250",
+      "img": "https://images.ua.prom.st/1977540699_w200_h200_maska-na-litso.jpg",
+      "type": "medical",
+      "description": "Маска на лицо Пушка Огонь Classic черная"
+    },
+    {
+      "id": 40,
+      "model": "Маска",
+      "color": "Black",
+      "memory": "0",
+      "price": "150",
+      "img": "https://images.ua.prom.st/2274008015_w200_h200_maska-na-litso.jpg",
+      "type": "medical",
+      "description": "Маска на лицо с принтом Череп"
+    },
+    {
+      "id": 41,
+      "model": "Маска-респиратор FFP2 ",
+      "color": "White",
+      "memory": "0",
+      "price": "300",
+      "img": "https://images.ua.prom.st/2314974059_w200_h200_maska-respirator-ffp2-4-6.jpg",
+      "type": "medical",
+      "description": "Маска-респиратор FFP2 (4-6 часов/день на 7 дней) защитная для лица С ЖЕЛТЫМ КЛАПАНОМ выдоха от вирусов"
+    },
+    {
+      "id": 42,
+      "model": "Маска ",
+      "color": "Black",
+      "memory": "0",
+      "price": "250",
+      "img": "https://images.ua.prom.st/2270693138_w200_h200_maska-na-litso.jpg",
+      "type": "medical",
+      "description": "Маска на лицо Пушка Огонь Classic черная"
+    },
+    {
+      "id": 43,
+      "model": "Маска-респиратор FFP2 ",
+      "color": "White",
+      "memory": "0",
+      "price": "300",
+      "img": "https://images.ua.prom.st/2314974059_w200_h200_maska-respirator-ffp2-4-6.jpg",
+      "type": "medical",
+      "description": "Маска-респиратор FFP2 (4-6 часов/день на 7 дней) защитная для лица С ЖЕЛТЫМ КЛАПАНОМ выдоха от вирусов"
+    },
+    {
+      "id": 44,
+      "model": "Маска ",
+      "color": "Black",
+      "memory": "0",
+      "price": "250",
+      "img": "https://images.ua.prom.st/1977540699_w200_h200_maska-na-litso.jpg",
+      "type": "medical",
+      "description": "Маска на лицо Пушка Огонь Classic черная"
+    },
+    {
+      "id": 45,
+      "model": "Маска",
+      "color": "Black",
+      "memory": "0",
+      "price": "150",
+      "img": "https://images.ua.prom.st/2270693138_w200_h200_maska-na-litso.jpg",
+      "type": "medical",
+      "description": "Маска на лицо с принтом"
+    },
+    {
+      "id": 46,
+      "model": "Apple iPad Pro 12.9",
+      "color": "Space Gray",
+      "memory": "1024GB",
+      "price": "132000",
+      "img": "https://svetofor.info/images/detailed/171/ipad_pro.jpg",
+      "type": "tablet",
+      "description": "Объем встроенной памяти составляет 1024 Gb. Оперативной памяти на 6 Gb хватает для стабильной работы системы. Вы можете пользоваться Wi-Fi прямо со своего планшета. Поддержка диапазона LTE даст вам возможность пользоваться быстрым интернетом. Планшет Apple iPad Pro 12.9 (2020) обладает хорошей камерой на 12 Мп и батареей с временем работы 9 ч. Планшет имеет возможность зарядки от USB."
+    },
+    {
+      "id": 47,
+      "model": "Apple iPad Pro 12.9",
+      "color": "Space Gray",
+      "memory": "1024GB",
+      "price": "132000",
+      "img": "https://svetofor.info/images/detailed/171/ipad_pro.jpg",
+      "type": "tablet",
+      "description": "Объем встроенной памяти составляет 1024 Gb. Оперативной памяти на 6 Gb хватает для стабильной работы системы. Вы можете пользоваться Wi-Fi прямо со своего планшета. Поддержка диапазона LTE даст вам возможность пользоваться быстрым интернетом. Планшет Apple iPad Pro 12.9 (2020) обладает хорошей камерой на 12 Мп и батареей с временем работы 9 ч. Планшет имеет возможность зарядки от USB."
+    },
+    {
+      "id": 48,
+      "model": "Apple iPad Pro 12.9",
+      "color": "Space Gray",
+      "memory": "1024GB",
+      "price": "132000",
+      "img": "https://svetofor.info/images/thumbnails/500/500/detailed/192/planshet-apple-ipad-pro-129-2020-1024-gb-lte-serebristyj-1.jpg",
+      "type": "tablet",
+      "description": "Объем встроенной памяти составляет 1024 Gb. Оперативной памяти на 6 Gb хватает для стабильной работы системы. Вы можете пользоваться Wi-Fi прямо со своего планшета. Поддержка диапазона LTE даст вам возможность пользоваться быстрым интернетом. Планшет Apple iPad Pro 12.9 (2020) обладает хорошей камерой на 12 Мп и батареей с временем работы 9 ч. Планшет имеет возможность зарядки от USB."
+    },
+    {
+      "id": 49,
+      "model": "Apple iPad Pro 12.9",
+      "color": "Space Gray",
+      "memory": "1024GB",
+      "price": "132000",
+      "img": "https://svetofor.info/images/detailed/171/ipad_pro.jpg",
+      "type": "tablet",
+      "description": "Объем встроенной памяти составляет 1024 Gb. Оперативной памяти на 6 Gb хватает для стабильной работы системы. Вы можете пользоваться Wi-Fi прямо со своего планшета. Поддержка диапазона LTE даст вам возможность пользоваться быстрым интернетом. Планшет Apple iPad Pro 12.9 (2020) обладает хорошей камерой на 12 Мп и батареей с временем работы 9 ч. Планшет имеет возможность зарядки от USB."
+    },
+    {
+      "id": 50,
+      "model": "Apple iPad Pro 12.9",
+      "color": "Space Gray",
+      "memory": "1024GB",
+      "price": "132000",
+      "img": "https://svetofor.info/images/thumbnails/500/500/detailed/192/planshet-apple-ipad-pro-129-2020-1024-gb-lte-serebristyj-1.jpg",
+      "type": "tablet",
+      "description": "Объем встроенной памяти составляет 1024 Gb. Оперативной памяти на 6 Gb хватает для стабильной работы системы. Вы можете пользоваться Wi-Fi прямо со своего планшета. Поддержка диапазона LTE даст вам возможность пользоваться быстрым интернетом. Планшет Apple iPad Pro 12.9 (2020) обладает хорошей камерой на 12 Мп и батареей с временем работы 9 ч. Планшет имеет возможность зарядки от USB."
+    },
+    {
+      "id": 51,
+      "model": "Apple iPad Pro 12.9",
+      "color": "Space Gray",
+      "memory": "1024GB",
+      "price": "132000",
+      "img": "https://svetofor.info/images/detailed/171/ipad_pro.jpg",
+      "type": "tablet",
+      "description": "Объем встроенной памяти составляет 1024 Gb. Оперативной памяти на 6 Gb хватает для стабильной работы системы. Вы можете пользоваться Wi-Fi прямо со своего планшета. Поддержка диапазона LTE даст вам возможность пользоваться быстрым интернетом. Планшет Apple iPad Pro 12.9 (2020) обладает хорошей камерой на 12 Мп и батареей с временем работы 9 ч. Планшет имеет возможность зарядки от USB."
+    },
+    {
+      "id": 52,
+      "model": "Apple iPad Pro 12.9",
+      "color": "Gray",
+      "memory": "512GB",
+      "price": "104000",
+      "img": "https://svetofor.info/images/thumbnails/300/300/detailed/192/planshet-apple-ipad-pro-129-2020-512-gb-wi-fi-kosmicheskij-seryj-1-2.jpg",
+      "type": "tablet",
+      "description": "Объем встроенной памяти составляет 512 Gb. Оперативной памяти на 6 Gb хватает для стабильной работы системы. Вы можете пользоваться Wi-Fi прямо со своего планшета. Поддержка диапазона LTE даст вам возможность пользоваться быстрым интернетом. Планшет Apple iPad Pro 12.9 (2020) обладает хорошей камерой на 12 Мп и батареей с временем работы 9 ч. Планшет имеет возможность зарядки от USB."
+    },
+    {
+      "id": 53,
+      "model": "Apple iPad Pro 12.9",
+      "color": "Gray",
+      "memory": "512GB",
+      "price": "104000",
+      "img": "https://svetofor.info/images/thumbnails/300/300/detailed/192/planshet-apple-ipad-pro-129-2020-512-gb-wi-fi-kosmicheskij-seryj-1-2.jpg",
+      "type": "tablet",
+      "description": "Объем встроенной памяти составляет 512 Gb. Оперативной памяти на 6 Gb хватает для стабильной работы системы. Вы можете пользоваться Wi-Fi прямо со своего планшета. Поддержка диапазона LTE даст вам возможность пользоваться быстрым интернетом. Планшет Apple iPad Pro 12.9 (2020) обладает хорошей камерой на 12 Мп и батареей с временем работы 9 ч. Планшет имеет возможность зарядки от USB."
+    },
+    {
+      "id": 54,
+      "model": "Apple iPad Pro 12.9",
+      "color": "Gray",
+      "memory": "512GB",
+      "price": "104000",
+      "img": "https://svetofor.info/images/thumbnails/300/300/detailed/192/planshet-apple-ipad-pro-129-2020-512-gb-wi-fi-kosmicheskij-seryj-1-2.jpg",
+      "type": "tablet",
+      "description": "Объем встроенной памяти составляет 512 Gb. Оперативной памяти на 6 Gb хватает для стабильной работы системы. Вы можете пользоваться Wi-Fi прямо со своего планшета. Поддержка диапазона LTE даст вам возможность пользоваться быстрым интернетом. Планшет Apple iPad Pro 12.9 (2020) обладает хорошей камерой на 12 Мп и батареей с временем работы 9 ч. Планшет имеет возможность зарядки от USB."
+    }
+  ],
+  "chosen": [
+    {
+      "id": 3,
+      "model": "IPhone 7Plus",
+      "color": "Black",
+      "memory": "64GB",
+      "price": "23000",
+      "img": "https://img5.lalafo.com/i/posters/original/30/3d/00/53344bf2d01d662c8be188f922.jpeg",
+      "type": "mobile",
+      "description": "Смартфон Apple IPhone обладает хорошей камерой на 12+12+12 Мп. Объем встроенной памяти составляет 64GB. Оперативной памяти на 4 Gb хватает для стабильной работы системы. Под крышкой скрывается аккумулятор ёмкостью 3500 мАч. Смартфон имеет возможность беспроводной зарядки. Функция быстрой зарядки пригодится пользователям, которые ценят свое время. Поддержка диапазона 4G даст вам возможность пользоваться быстрым интернетом."
+    },
+    {
+      "id": 1,
+      "model": "IPhone 8+",
+      "color": "White",
+      "memory": "128GB",
+      "price": "28000",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ02ADKvITbaU3TCSKxg-4qpXShWCeU4nmWzMaa3w7GPTLYR9tT&usqp=CAU",
+      "type": "mobile",
+      "description": "Смартфон Apple IPhone обладает хорошей камерой на 12+12+12 Мп. Объем встроенной памяти составляет 128GB. Оперативной памяти на 4 Gb хватает для стабильной работы системы. Под крышкой скрывается аккумулятор ёмкостью 3500 мАч. Смартфон имеет возможность беспроводной зарядки. Функция быстрой зарядки пригодится пользователям, которые ценят свое время. Поддержка диапазона 4G даст вам возможность пользоваться быстрым интернетом."
+    },
+    {
+      "id": 7,
+      "model": "IPhone 8+",
+      "color": "White",
+      "memory": "128GB",
+      "price": "28000",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ02ADKvITbaU3TCSKxg-4qpXShWCeU4nmWzMaa3w7GPTLYR9tT&usqp=CAU",
+      "type": "mobile",
+      "description": "Смартфон Apple IPhone обладает хорошей камерой на 12+12+12 Мп. Объем встроенной памяти составляет 128GB. Оперативной памяти на 4 Gb хватает для стабильной работы системы. Под крышкой скрывается аккумулятор ёмкостью 3500 мАч. Смартфон имеет возможность беспроводной зарядки. Функция быстрой зарядки пригодится пользователям, которые ценят свое время. Поддержка диапазона 4G даст вам возможность пользоваться быстрым интернетом."
+    }
+  ],
+  "orders": []
+}

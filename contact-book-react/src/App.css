@@ -1,0 +1,31 @@
+.nav-bar > ul{
+    display: flex;
+    list-style-type: none;
+    margin: 20px;
+    text-decoration: none;
+    color: black;
+    margin-left: 80px;
+}
+.nav-bar{
+    background-color: #539c37;
+    height: 80px;
+    width: 100%;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    text-decoration: none;
+    border: 1px solid black;
+    
+}
+.nav-bar > ul > li {
+    list-style-type: none;
+    text-decoration: none;
+    padding: 10px 0px 10px 30px;
+    /* color: black; */
+    /* width: 100px; */
+
+}
+.search{
+    margin-left: 50%;
+
+}

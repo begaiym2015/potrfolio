@@ -1,0 +1,250 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400|Roboto:300,400,700&display=swap');
+
+body{
+    margin: 0;
+    width: 100%;
+    font-family: 'Roboto',sans-serif;
+}
+.header{
+    background: url(../images/1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+    height: 100vh;
+}
+.container{
+    max-width: 1060px;
+    margin: 0 auto;
+    height: inherit;
+}
+.header__nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid #ffffff85;
+    height: 10%;
+
+}
+.header__nav-left{
+    display: flex;
+    align-items: center;
+}
+.nav-phone__block{
+    display: flex;
+    align-items: center;
+    margin-right: 25px;
+}
+.nav-phone__icon{
+    background: url(../images/phone.png) no-repeat;
+    padding: 7px;
+    background-size: contain;
+    margin-right: 10px;
+}
+.nav-logo{
+    text-transform: uppercase;
+    padding-right: 25px;
+    border-right: 1px solid #ffffff85;
+    margin: 0;
+    margin-right: 25px;
+}
+.menu{
+    display: flex;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+.menu__items{
+    padding: 10px 15px;
+    text-transform: uppercase;
+    color: #ffffff8c;
+    cursor: pointer;
+    transition: .2s;
+}
+.menu__items.bold{
+    color: white;
+}
+.menu__items:hover{
+    color: white;
+    background-color: #ffffff52;
+    border-radius: 5px;
+}
+
+.header__body{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    height: 90%;
+}
+.header__body-h1{
+    font-size: 35px;
+    margin: 0;
+}
+.header__body-desc{
+    margin: 12px 0;
+    font-size: 19px;
+    max-width: 30rem;
+}
+.header__body-btn{
+    background-color: #6fb048;
+    border: none;
+    padding: 16px 54px;
+    font-size: 16px;
+    color: white;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+
+.main{
+    height: 100vh;
+}
+.main-title{
+    font-weight: 300;
+    font-size: 33px;
+    margin: 0;
+}
+.main-desc{
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    color: #0f5f5c;
+    margin-top: 50px;
+
+}
+.main__desc{
+    font-size: 13px;
+    color: #469c99c7;
+}
+.main-title-line{
+    height: 1px;
+    background-color:#0d691c ;
+    width: 14%;
+    margin: 12px auto;
+}
+ 
+.features{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+
+}
+.first-features {
+    margin: 75px 0 0 0;
+}
+.features h5 {
+    color: #0f5f5c;
+    margin: 16px 0;
+    font-size: 15px;
+}
+.features p {
+    color: #83a7a5;
+    margin: 0;
+    font-size: 13px;
+
+}
+
+.first-features__item{
+    width: 31%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    
+}
+.first-features-img{
+    height: 45px;
+}
+.second-features{
+    margin: 0 0 90px 0;
+}
+.second-features__item{
+    width: 45%;
+    margin: 60px 0 0 0;
+
+}
+.second-features__title{
+    display: flex;
+    align-items: center;
+
+}
+.second-features-img{
+   margin: 0 16px 0 0;
+}
+.stick{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 30px 0;
+}
+.stick1{
+    width: 2px;
+    height: 90px;
+    background: #00000030;
+}
+.stick2{
+    width: 90px;
+    height: 2px;
+    background: #00000030;
+
+}
+@media screen and (max-width:1060px){
+    .container{
+        padding: 0 50px;
+    }
+  
+}
+@media screen and (max-width:993px){
+    .menu{
+        display: none;
+    }
+    .burger-menu{
+        width: 50px;
+        height: 40px;
+    }
+    .line{
+        width: 30px;
+        height: 5px;
+        margin: 5px;
+        border-radius: 5px;
+        background-color: #fff;
+
+    }
+}
+@media screen and (max-width:778px){
+    .features{
+        flex-direction: column;
+        align-items: center;
+    }
+    .second-features__item,
+     .first-features__item {
+        width:100%;
+        padding-top: 20px;
+
+    }
+.first-features-img{
+    height: auto;
+    width:60px ;
+
+}
+.stick{
+    display: none;
+}
+@media screen and (max-width:500px) {
+    .nav-phone__number{
+        display: none;
+    }
+    .header__body-desc{
+        font-size: 3vw;
+
+    }
+    .header__body-h1{
+        font-size: 6vw;
+    }
+    
+}
+
+

@@ -1,0 +1,46 @@
+
+.Information {
+  background: url("./image/apple-black-logo-creative-metal-grid-background-apple-logo-brands.jpg");
+  width:1000px; /* ширина блока div, в котором находятся все элементы */
+  margin:0 auto; /* располагаем данный блок по центру */
+  text-align: center;
+  color: white;
+  font-family: comic sans ms, times new roman, verdana;
+    font-size:16px;
+    font-weight:bold;
+}
+.social-icons {
+  text-align: center;
+  }  
+.social-icons li {
+  display:inline-block;
+  list-style-type:none;
+  -webkit-user-select:none;
+  -moz-user-select:none;
+  }
+.social-icons li a {
+  border-bottom: none;
+  }
+.social-icons li img {
+  width:70px;
+  height:70px;
+  margin-right: 20px;
+}
+  
+  /* background-repeat:no-repeat; 
+    background-attachment:fixed; 
+    background-color:#cccccc; 
+    margin: 0 auto;
+    text-align:justify;
+  
+ 
+  background-size: cover;
+  
+  ;
+  font-family: comic sans ms, times new roman, verdana;
+    font-size:16px;
+    font-style:italic;
+    font-weight:bold; */
+
+
+

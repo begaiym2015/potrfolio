@@ -1,0 +1,89 @@
+.contact-book{
+    background-color: cornflowerblue;
+    display: block;
+    margin: auto;
+    border: 1px solid black;
+    width: 100%;
+  
+}
+.card{
+    width: 200px;
+    list-style-type: none;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px;
+    margin: 15px;
+    font-size: larger;
+    border: 1px solid white;
+    border-radius: 6px;
+    
+}
+.card >.contact >div{
+  color: white;
+}
+.modal {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 200vh;
+    background-color: rgba (0,0,0, .11);
+  }
+  .modal-window{
+    width: 400px;
+    height: 400px;
+    padding: 1rem;
+    background-color: #fff;
+    border-radius: 4px;
+    margin: 200px auto 0 auto;
+    text-align: center;
+    border: 1px solid black;
+  }
+  .photo > img{
+    width: 200px;
+    height: 200px;
+  }
+  .modal-window > div {
+    margin-bottom: 1rem;
+  
+  }
+  .modal-window> input{
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 1rem;
+  }
+  .add-contact{
+      display: flex;
+      flex-direction: column;
+      padding: 20px;
+      width: 40%;
+      align-items: center;
+      margin-left: 300px;
+      margin-top: 30px;
+      height: 100vh;
+  }
+  .add-contact>button{
+      width: 100px;
+     
+  }
+  .add-contact>input{
+      margin: 5px;
+      padding: 5px;
+      width: 70%;
+  }
+
+  .contact > img {
+    width: 150px;
+    height: 150px;
+  }
+  .contact{
+    text-align: center;
+  }
+  .list >ul{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  .list{
+    padding: 100px;
+  }

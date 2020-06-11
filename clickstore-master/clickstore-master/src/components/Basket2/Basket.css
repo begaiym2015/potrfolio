@@ -1,0 +1,53 @@
+.basket {
+    max-width: 1060px;
+    display: flex;
+    margin: 0 auto;
+    padding: 40px;
+}
+
+.basket-list {
+    margin: 0 auto;
+    padding: 15px;
+    text-align: center;
+    width: 350px;
+    height: inherit;
+    border: 1px solid rgb(91, 189, 192);
+}
+
+.add-order {
+    margin: 0 auto;
+    padding: 15px;
+    text-align: center;
+    width: 350px;
+    height: inherit;
+    border: 1px solid rgb(91, 189, 192);  
+}
+
+.add-order input {
+    display: flex;
+    flex-direction: column;
+    margin: 10px auto;
+    padding: 13px 18px;
+    border: 1px solid rgb(91, 189, 192);
+    border-radius: 6px;
+    background-color: white;
+}
+
+.add-order button {
+    display: inline-block;
+    background: transparent;
+    border: 1px solid rgb(91, 189, 192);
+    color: rgb(91, 189, 192);
+    font-size: 15px;
+    font-weight: 700;
+    margin: 10px;
+    padding: 13px 18px;
+    border-radius: 6px;   
+    cursor: pointer; 
+}
+
+.add-order button:hover {
+    background-color:  rgb(91, 189, 192);
+    color: white;
+    border: white;
+}

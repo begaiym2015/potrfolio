@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact book</title>
+    <link rel="stylesheet" href="./css/style.css">
+    <!-- <script src="./js/jQuery.js"></script> -->
+    <script
+  src="http://code.jquery.com/jquery-3.5.1.min.js"
+  integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0="
+  crossorigin="anonymous"></script>
+    <link href="https://fonts.googleapis.com/css?family=Gotu|Montserrat&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Spicy+Rice&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+</head>
+<body>
+
+    <marquee onmouseout="this.start()" onmouseover="this.stop()"><span style="color: rgb(202, 12, 12);"><b>Дорогие бишкекчане! В городе введен комендансткий час!
+        С 8 вечера до 7 утра запрещено передвигаться по городу. Пожалуйста, оставайтесь дома.
+         Исключите личные встречи и отдайте предпочтение удаленному общению через телефон и интернет!
+          Не забывайте соблюдать правило личной гигиены. ОСОЗНАННОСТЬ И ОТВЕТСТВЕННОСТЬ - НАШ ОБЩИЙ ВЫБОР! Мэрия города Бишкек.</b></span></marquee>
+   <div class="sp-container">
+       <div class="sp-content">
+           <div class="sp-globe"></div>
+           <h2 class="frame-1">КОРОНОВИРУС!</h2>
+           <h2 class="frame-2">БЕРЕГИТЕ СЕБЯ!</h2>
+           <h2 class="frame-3">СВОИХ БЛИЗКИХ!</h2>
+           <h2 class="frame-4">МОЙТЕ РУКИ!</h2>
+           <h2 class="frame-5">
+               <span>ПОЖАЛУЙСТА,</span>
+               <span>ОСТАВАЙТЕСЬ</span>
+               <span>ДОМА!</span>
+           </h2>
+       </div>
+   </div>
+
+    <div class="modalWin dNone">
+        <form class="modal dNone" >
+            
+        </form>
+        <div class="inputForm dNone">
+            <h3>Добавить контакт</h3>
+            <div class="form-group">
+                <input class="fName" type="text" id="dynamic-label-input" placeholder="Введите имя">
+                <label for="dynamic-label-input">Введите имя <span style="color: red;">*</span></label>
+            </div>
+    
+            <div class="form-group">
+                <input class="lName" type="text" id="dynamic-label-input" placeholder="Введите фамилию">
+                <label for="dynamic-label-input">Введите фамилию</label>
+            </div>
+    
+            <div class="form-group">
+                <input class="telNum" type="number" id="dynamic-label-input" placeholder="Введите номер">
+                <label for="dynamic-label-input">Введите номер <span style="color: red;">*</span></label>
+            </div>
+    
+            <button class="add btn">Добавить</button>
+        </div>
+    </div>
+<div class="backImg">
+    <div class="container">
+
+        <div class="showerForm">
+            <button class="btnPrev"></button>
+            <div class="shFormInner">
+                <div class="sr">
+                    <h3>Список контактов</h3>
+                    <input class="who dNone" type="text" placeholder="Поиск конатктов">
+                    <button class="btnAdd"></button>
+                    <button class="btnSearch"></button>
+                </div>
+                
+                <ul class="list">
+    
+                </ul>
+            </div>
+                <button class="btnNext"></button>
+        </div>
+    </div>
+</div>
+
+
+<!-- <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script> -->
+
+
+
+    <script src="./js/main.js"></script>
+</body>
+</html>

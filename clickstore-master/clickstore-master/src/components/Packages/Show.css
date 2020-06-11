@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+.show-model{
+    background-color: white;
+    padding-top: 10px;
+    padding-bottom: 100px;
+}
+.container{
+   font-size: large;
+   margin: 20px;
+   font-family: Playfair Display;
+
+}
+.container > div > h1{
+    margin-left: 200px;
+}
+.main{
+    width: 84%;
+    /* height: 500px; */
+    display: flex;
+    justify-content: space-around;
+    margin-left: 50px;
+    
+}
+.info{
+    width: 450px;
+    /* height: 700px; */
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    border: 1px solid grey;
+    border-radius: 10px;
+}
+.first-block{
+    font-size: 30px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    border-bottom: 1px solid gray;
+
+}
+.btn{
+    border-top: 1px solid grey;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.btn-social{
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+    
+}
+.btn-social > button{
+    border: none;
+    
+}
+.btn-social > button >img{
+    width: 40px;
+    height: 40px;
+   
+}
+.contacts{
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+    padding: 5px;
+    border: 1px solid grey;
+    border-radius: 10px;
+    margin-left: 10px;
+    /* height: 400px; */
+}
+.contacts> h2 {
+    border-bottom: 1px solid gray;
+    padding-bottom: 10px;
+}
+/* .contacts > button{
+    height: 45px;
+    background-color: yellow;
+    border: none;
+    font-family: Playfair Display;
+    font-weight: bolder;
+    font-size: 20px;
+    margin-bottom: 20px;
+} */
+.contacts >span{
+    padding: 5px;
+
+}
+.first-block > img{
+    width: 350px;
+    height: 400px;
+    padding: 40px;
+    border-bottom: 1px solid grey;
+}
+.paginate-btn {
+    padding: 5px;
+    margin: 5px;
+    border-radius: 4px;
+}
+.paginate{
+    margin-left: 350px;
+    margin-top: 10px;
+}
+/* .paginate{
+    margin-left: 400px;
+} */
+/* .paginate-btn{
+    margin-top: 200px;
+    border: none;
+    background-color: white;
+
+}
+.paginate-btn > img{
+   width: 30px;
+   height: 100px;
+} */

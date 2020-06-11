@@ -1,0 +1,45 @@
+.credit {
+    background-color: #ffffff;
+    margin: 0;
+    text-align: center;
+    padding: 30px 70px;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 14px;
+}
+.credit h2,h3 {
+    margin: 20px 0;
+    color: #ff0000;
+}
+.credit strong > p {
+    font-size: 16px;
+    margin: 15px;
+}
+.credit a > strong > p {
+    margin: -5px;
+}
+#first-a {
+    margin-top: 20px;
+}
+.credit a {
+    /* text-decoration: none; */
+    color: black;
+}
+.bank-bg {
+    background: url(../../img/ecobank.jpg) no-repeat;
+    background-size: cover;
+    width: 825px;
+    height: 165px;
+    margin: 20px auto;
+}
+table {
+    text-align: start;
+    margin: 20px 0;
+}
+.credit ol {
+    text-align: start;
+}
+.credit p {
+    margin: 5px;
+}

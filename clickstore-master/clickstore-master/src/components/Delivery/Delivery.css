@@ -1,0 +1,12 @@
+.delivery {
+    background-color: #ffffff;
+    margin: 0;
+    text-align: center;
+    padding: 30px;
+    font-size: 16px;
+    font-weight: 500;
+}
+.delivery h2,h3 {
+    margin: 0;
+    color: #ff0000;
+}
